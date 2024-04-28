@@ -1,0 +1,5 @@
+selenium
+customtkinter
+Pillow
+anyascii
+tkcalendar
